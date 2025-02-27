@@ -58,7 +58,7 @@ export function FeaturedProducts() {
       ]
 
   return (
-    <div className="max-w-7xl mx-auto px-4 py-8">
+    <div className="max-w-7xl mx-auto py-8">
         <div className="flex justify-between items-center mb-6">
         <h2 className="text-2xl font-medium text-gray-800">Featured Products</h2>
         <div className="flex items-center gap-4">

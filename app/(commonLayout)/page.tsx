@@ -5,6 +5,7 @@ import { HeroBanner } from "@/components/HeroBanner/HeroBanner";
 import { NewProducts } from "@/components/NewProduct/NewProducts";
 import { Newsletter } from "@/components/Newsletter/Newsletter";
 import ProductGrid from "@/components/ProductGrid/ProductGrid";
+import { PromoBanners } from "@/components/PromoBanners/PromoBanners";
 import { Sidebar } from "@/components/Sidebar/Sidebar";
 
 
@@ -21,6 +22,7 @@ export default function Home() {
             <HeroBanner />
         
            <NewProducts/>
+           <PromoBanners/>
             <FeaturedProducts/>
         
            
